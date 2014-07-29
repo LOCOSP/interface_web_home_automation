@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--A VoxCommando Payload file-->
+<PayloadsRoot>
+	
+	<payload>
+		<value>1:0:1:13ED:5DC:13E:820000:0:0:0:</value>
+		<phrase>TV POLONIA</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:12C7:2E7C:13E:820000:0:0:0:</value>
+		<phrase>TVP  ONE</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3ABD:514:13E:820000:0:0:0:</value>
+		<phrase>TVP ONE HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:12C8:2E7C:13E:820000:0:0:0:</value>
+		<phrase>TVP TWO</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:C22:1E78:71:820000:0:0:0:</value>
+		<phrase>TVP TWO HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3B62:12C:13E:820000:0:0:0:</value>
+		<phrase>TVP HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:13F6:5DC:13E:820000:0:0:0:</value>
+		<phrase>TVP INFO</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:13F9:5DC:13E:820000:0:0:0:</value>
+		<phrase>TVP CULTURE</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3D5C:2C88:13E:820000:0:0:0:</value>
+		<phrase>TVP SERIALS</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:10D7:3E8:13E:820000:0:0:0:</value>
+		<phrase>TVN</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3DCD:640:13E:820000:0:0:0:</value>
+		<phrase>TVN HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:10D8:3E8:13E:820000:0:0:0:</value>
+		<phrase>TVN 24</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:10DD:3E8:13E:820000:0:0:0:</value>
+		<phrase>TTV</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3335:3390:71:820000:0:0:0:</value>
+		<phrase>Polsat News</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:10E0:3E8:13E:820000:0:0:0:</value>
+		<phrase>TVN Style</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3DCE:640:13E:820000:0:0:0:</value>
+		<phrase>TVN Style HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:10D9:3E8:13E:820000:0:0:0:</value>
+		<phrase>TVN Siedem</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:32E3:190:13E:820000:0:0:0:</value>
+		<phrase>TVN 7 HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:10DF:3E8:13E:820000:0:0:0:</value>
+		<phrase>TVN Turbo</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3DD0:640:13E:820000:0:0:0:</value>
+		<phrase>TVN Turbo HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3DD1:640:13E:820000:0:0:0:</value>
+		<phrase>TVN TURBO HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:10DE:3E8:13E:820000:0:0:0:</value>
+		<phrase>TVN Meteo</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:2919:1EDC:71:820000:0:0:0:</value>
+		<phrase>Superstacja</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:10E2:3E8:13E:820000:0:0:0:</value>
+		<phrase>TVN CNBC</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:E06:2D50:13E:820000:0:0:0:</value>
+		<phrase>BBC HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:2011:24B8:13E:820000:0:0:0:</value>
+		<phrase>CNNi</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:332D:3390:71:820000:0:0:0:</value>
+		<phrase>Polsat</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3336:3390:71:820000:0:0:0:</value>
+		<phrase>Polsat2</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:332E:3390:71:820000:0:0:0:</value>
+		<phrase>Polsat Play</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3332:3390:71:820000:0:0:0:</value>
+		<phrase>Polsat Cafe</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3334:3390:71:820000:0:0:0:</value>
+		<phrase>Polsat Film</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:13F0:5DC:13E:820000:0:0:0:</value>
+		<phrase>KINO POLSKA</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:12C1:2E7C:13E:820000:0:0:0:</value>
+		<phrase>CANAL+</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:32DC:190:13E:820000:0:0:0:</value>
+		<phrase>CANAL+ HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:12C2:2E7C:13E:820000:0:0:0:</value>
+		<phrase>CANAL+ FILM</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3779:44C:13E:820000:0:0:0:</value>
+		<phrase>CANAL+ FILM HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3782:44C:13E:820000:0:0:0::CANAL+ 3D</value>
+		<phrase>CANAL+ 3D</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:114D:2AF8:13E:820000:0:0:0:</value>
+		<phrase>HBO</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:C21:1E78:71:820000:0:0:0:</value>
+		<phrase>HBO HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:114F:2AF8:13E:820000:0:0:0:</value>
+		<phrase>HBO2</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:E09:2D50:13E:820000:0:0:0:</value>
+		<phrase>HBO2 HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1150:2AF8:13E:820000:0:0:0:</value>
+		<phrase>HBO COMEDY</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:E0A:2D50:13E:820000:0:0:0:</value>
+		<phrase>HBO COMEDY HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:12C5:2E7C:13E:820000:0:0:0:</value>
+		<phrase>ALE KINO+</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:379F:44C:13E:820000:0:0:0:</value>
+		<phrase>ALE KINO+ HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3D61:2C88:13E:820000:0:0:0:</value>
+		<phrase>Filmbox</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:32E1:190:13E:820000:0:0:0:</value>
+		<phrase>FILMBOX HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3D60:2C88:13E:820000:0:0:0:</value>
+		<phrase>Filmbox Extra</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3D62:2C88:13E:820000:0:0:0:</value>
+		<phrase>Filmbox Family</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:332F:3390:71:820000:0:0:0:</value>
+		<phrase>TV4</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:290E:1EDC:71:820000:0:0:0::TV6</value>
+		<phrase>TV6</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:13F8:5DC:13E:820000:0:0:0:</value>
+		<phrase>PULS</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3B67:12C:13E:820000:0:0:0:</value>
+		<phrase>Cinemax HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:C26:1E78:71:820000:0:0:0::Cinemax2 HD</value>
+		<phrase>Cinemax2 HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:13F4:5DC:13E:820000:0:0:0::FOX</value>
+		<phrase>FOX</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1CCF:1CE8:71:820000:0:0:0:</value>
+		<phrase>FoxLife</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:C1F:1E78:71:820000:0:0:0:</value>
+		<phrase>FoxLife HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1D21:2FA8:13E:820000:0:0:0:</value>
+		<phrase>CN/TCM</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:12C9:2E7C:13E:820000:0:0:0:</value>
+		<phrase>CANAL+ SPORT</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:32DE:190:13E:820000:0:0:0:</value>
+		<phrase>CANAL+ SPORT HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:113D:2AF8:13E:820000:0:0:0:</value>
+		<phrase>CANAL+ GOL</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:377A:44C:13E:820000:0:0:0:</value>
+		<phrase>CANAL+ GOL HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:113E:2AF8:13E:820000:0:0:0:</value>
+		<phrase>CANAL+ WEEKEND</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:377B:44C:13E:820000:0:0:0:</value>
+		<phrase>C+ WEEKEND HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3318:190:13E:820000:0:0:0:</value>
+		<phrase>EUROSPORT HD PL</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:330E:190:13E:820000:0:0:0:</value>
+		<phrase>ESP HD Polish</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3B63:12C:13E:820000:0:0:0:</value>
+		<phrase>Eurosport 2 HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1C89:1CE8:71:820000:0:0:0:</value>
+		<phrase>Extreme Sports</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3D5F:2C88:13E:820000:0:0:0:</value>
+		<phrase>Orange Sport</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3A3E:1FA4:13E:820000:0:0:0:</value>
+		<phrase>Sport Klub POL</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3D58:2C88:13E:820000:0:0:0:</value>
+		<phrase>TVP SPORT</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+
+	<payload>
+		<value>1:0:1:114E:2AF8:13E:820000:0:0:0:</value>
+		<phrase>13TH STREET</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1C96:1CE8:71:820000:0:0:0:</value>
+		<phrase>AXN</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:C25:1E78:71:820000:0:0:0:</value>
+		<phrase>AXN HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:32E2:190:13E:820000:0:0:0:</value>
+		<phrase>AXN SPIN HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1C86:1CE8:71:820000:0:0:0:</value>
+		<phrase>AXN Crime</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1C87:1CE8:71:820000:0:0:0:</value>
+		<phrase>AXN Sci-Fi</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1406:5DC:13E:820000:0:0:0:</value>
+		<phrase>CLUB TV</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:A:3200:13E:820000:0:0:0:</value>
+		<phrase>Comedy Central Polska</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3786:44C:13E:820000:0:0:0:</value>
+		<phrase>Novela TV</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3A36:1FA4:13E:820000:0:0:0::SCI FI Universal</value>
+		<phrase>SCI FI Universal</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3915:32C8:13E:820000:0:0:0:</value>
+		<phrase>TLC Poland</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3A35:1FA4:13E:820000:0:0:0:</value>
+		<phrase>UNIVERSAL</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1C85:1CE8:71:820000:0:0:0:</value>
+		<phrase>Zone Romantica</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1407:5DC:13E:820000:0:0:0:</value>
+		<phrase>ZONE REALITY</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1402:5DC:13E:820000:0:0:0:</value>
+		<phrase>ANIMAL PLANET</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3B66:12C:13E:820000:0:0:0:</value>
+		<phrase>Animal Planet HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1C9C:332C:13E:820000:0:0:0:</value>
+		<phrase>Crime and Investigation</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3D55:2C88:13E:820000:0:0:0:</value>
+		<phrase>D. SCIENCE</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3D57:2C88:13E:820000:0:0:0:</value>
+		<phrase>D. WORLD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3D64:2C88:13E:820000:0:0:0:</value>
+		<phrase>DISCOVERY</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3914:32C8:13E:820000:0:0:0:</value>
+		<phrase>Discovery ID Poland</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1139:2AF8:13E:820000:0:0:0:</value>
+		<phrase>HISTORY</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3D5E:2C88:13E:820000:0:0:0:</value>
+		<phrase>NATIONAL GEO</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:32DF:190:13E:820000:0:0:0:</value>
+		<phrase>NATIONAL GEO HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1136:2AF8:13E:820000:0:0:0:</value>
+		<phrase>PLANETE+</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:2918:1EDC:71:820000:0:0:0:</value>
+		<phrase>Travel</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3785:44C:13E:820000:0:0:0:</value>
+		<phrase>Water Planet</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:390A:32C8:13E:820000:0:0:0:</value>
+		<phrase>BBC Entertainment Poland</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:390B:32C8:13E:820000:0:0:0:</value>
+		<phrase>BBC Knowledge Poland</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1D2B:2FA8:13E:820000:0:0:0:</value>
+		<phrase>Cartoon Network</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:2906:1EDC:71:820000:0:0:0:</value>
+		<phrase>Boomerang</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1CB5:1CE8:71:820000:0:0:0:</value>
+		<phrase>Disney XD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1D2A:2FA8:13E:820000:0:0:0:</value>
+		<phrase>Disney Channel</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:2938:1EDC:71:820000:0:0:0:</value>
+		<phrase>Disney Junior</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:290C:1EDC:71:820000:0:0:0::Jim Jam Polska</value>
+		<phrase>Jim Jam Polska</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1137:2AF8:13E:820000:0:0:0:</value>
+		<phrase>MINIMINI+</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:379A:44C:13E:820000:0:0:0:</value>
+		<phrase>MINIMINI+ HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:B:3200:13E:820000:0:0:0:</value>
+		<phrase>Nickelodeon Europe</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1E:578:13E:82ACCE:0:0:0:</value>
+		<phrase>Nick Jr.</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1F:578:13E:82ACCE:0:0:0:</value>
+		<phrase>Nickelodeon HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:12C6:2E7C:13E:820000:0:0:0:</value>
+		<phrase>teleTOON+</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:379B:44C:13E:820000:0:0:0:</value>
+		<phrase>teleTOON+ HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:439D:2CEC:13E:820000:0:0:0:</value>
+		<phrase>BABY TV</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:2492:23F0:13F:820000:0:0:0:</value>
+		<phrase>AL JAZEERA CHILDREN</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:74:B:85:C00000:0:0:0:</value>
+		<phrase>Disney Channel HD</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:33AB:3EB:1:C00000:0:0:0:</value>
+		<phrase>RIC</phrase>
+		<subsetmatching>true</subsetmatching>
+	
+</payload>
+	
+	<payload>
+		<value>1:0:1:13EE:5DC:13E:820000:0:0:0:</value>
+		<phrase>TVS</phrase>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1292:3458:13E:820000:0:0:0:</value>
+		<phrase>TVR</phrase>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:12CB:2E7C:13E:820000:0:0:0:</value>
+		<phrase>DOMO+</phrase>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:379E:44C:13E:820000:0:0:0:</value>
+		<phrase>DOMO+ HD</phrase>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:12C4:2E7C:13E:820000:0:0:0:</value>
+		<phrase>KUCHNIA+</phrase>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:377F:44C:13E:820000:0:0:0:</value>
+		<phrase>KUCHNIA+ HD</phrase>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3D59:2C88:13E:820000:0:0:0:</value>
+		<phrase>TELE5</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3D5A:2C88:13E:820000:0:0:0:</value>
+		<phrase>POLONIA1</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:113A:2AF8:13E:820000:0:0:0:</value>
+		<phrase>RODIN TV</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3D5B:2C88:13E:820000:0:0:0:</value>
+		<phrase>EDUSAT</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:13F5:5DC:13E:820000:0:0:0:</value>
+		<phrase>ITV</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:4225:3DB8:13E:820000:0:0:0:</value>
+		<phrase>HUSTLER HD-3D</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	
+<payload>
+     		<value>1:0:1:C27:1E78:71:820000:0:0:0:</value>
+		<phrase>FOX HD</phrase>
+		
+<subsetmatching>true</subsetmatching>
+	</payload>
+
+
+	<payload>
+		<value>1:0:1:3B64:12C:13E:820000:0:0:0:</value>
+		<phrase>nPremium</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:E0B:2D50:13E:820000:0:0:0:</value>
+		<phrase>nPremium2</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3B61:12C:13E:820000:0:0:0:</value>
+		<phrase>nPremium3</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3ABA:514:13E:820000:0:0:0:</value>
+		<phrase>nPremium4</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3DC3:640:13E:820000:0:0:0:</value>
+		<phrase>Eska TV</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:2982:3D54:13E:820000:0:0:0:</value>
+		<phrase>TV DISCO</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+		
+	<payload>
+		<value>1:0:1:75:1E14:13E:820000:0:0:0:</value>
+		<phrase>HOT TV</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:E27:708:C8:820000:0:0:0:</value>
+		<phrase>POLO TV</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3D5D:2C88:13E:820000:0:0:0:</value>
+		<phrase>KP MUZYKA</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:5:3200:13E:820000:0:0:0:</value>
+		<phrase>VIVA Polska</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:13F1:5DC:13E:820000:0:0:0:</value>
+		<phrase>TRACE TV</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:34C7:3C28:13E:820000:0:0:0:</value>
+		<phrase>Rebel TV</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1134:2AF8:13E:820000:0:0:0:</value>
+		<phrase>4 fun TV</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:1F6C:319C:13E:820000:0:0:0::4me TV</value>
+		<phrase>4 me TV</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:7004:436:1:C00000:0:0:0:</value>
+		<phrase>VIVA Germany</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:3163:459:1:C00000:0:0:0:</value>
+		<phrase>Deutsches Musik Fernsehen</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:33A6:3EB:1:C00000:0:0:0:</value>
+		<phrase>VOLKS TV</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:2:3200:13E:820000:0:0:0:</value>
+		<phrase>MTV Polska</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:6FEF:42A:1:C00000:0:0:0:</value>
+		<phrase>MTV Dance</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:6FF5:42A:1:C00000:0:0:0:</value>
+		<phrase>MTV BASE FRANCE</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:6FEC:42A:1:C00000:0:0:0:</value>
+		<phrase>MTV FRANCE</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:6FE1:443:1:C00000:0:0:0:</value>
+		<phrase>ALT VIVA AUT</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:7001:436:1:C00000:0:0:0:</value>
+		<phrase>MTV Germany</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:6FEE:42A:1:C00000:0:0:0:</value>
+		<phrase>MTV Hits</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:7003:436:1:C00000:0:0:0:</value>
+		<phrase>MTV IDOL</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:6FFF:436:1:C00000:0:0:0:</value>
+		<phrase>MTV Music 24</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:7007:436:1:C00000:0:0:0:</value>
+		<phrase>MTV NL</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+				
+	<payload>
+		<value>1:0:1:7002:436:1:C00000:0:0:0:</value>
+		<phrase>MTV PULSE</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+			
+	<payload>
+		<value>1:0:1:6FF3:42A:1:C00000:0:0:0:</value>
+		<phrase>MTV ROCKS</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+			
+	<payload>
+		<value>1:0:1:6FF0:42A:1:C00000:0:0:0:</value>
+		<phrase>VH1</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+			
+	<payload>
+		<value>1:0:1:6FF1:42A:1:C00000:0:0:0:</value>
+		<phrase>VH1 Classic</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+			
+	<payload>
+		<value>1:0:1:20A0:432:1:C00000:0:0:0:</value>
+		<phrase>MCM</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+			
+	<payload>
+		<value>1:0:1:20A2:432:1:C00000:0:0:0:</value>
+		<phrase>MCM POP</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:20AD:432:1:C00000:0:0:0:</value>
+		<phrase>MCM TOP</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+			
+	<payload>
+		<value>1:0:1:20B4:432:1:C00000:0:0:0:</value>
+		<phrase>M6</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+
+	<payload>
+		<value>1:0:1:2584:458:1:C00000:0:0:0:</value>
+		<phrase>M6 MUSIC BLACK</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+	<payload>
+		<value>1:0:1:2585:458:1:C00000:0:0:0:</value>
+		<phrase>M6 MUSIC CLUB</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+			
+	<payload>
+		<value>1:0:1:1906:3FA:1:C00000:0:0:0:</value>
+		<phrase>NRJ HITS</phrase>
+		<subsetmatching>true</subsetmatching>
+	</payload>
+	
+</PayloadsRoot>
