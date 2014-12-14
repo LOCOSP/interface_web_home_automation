@@ -144,13 +144,13 @@
             <div class="btn-toolbar center-text">
                 
                 <div class="btn-group">
-                    <button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:10D7:3E8:13E:820000:0:0:0:'" class="btn">
+                    <button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:3DCD:640:13E:820000:0:0:0:'" class="btn">
                             <img src="img/programy/tvn.jpg" class="img-rounded" /></button>
                         <button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:13F4:5DC:13E:820000:0:0:0::FOX'" class="btn">
                             <img src="img/programy/FoxHD.png" class="img-rounded"/></button>
                         <button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:32DC:190:13E:820000:0:0:0:'" class="btn">
                             <img src="img/programy/canalplus_pl.jpg" class="img-rounded"/></button>
-			<button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:1139:2AF8:13E:820000:0:0:0:'" class="btn">
+			<button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:C2F:1E78:71:820000:0:0:0:'" class="btn">
                             <img src="img/programy/history-channel.jpg" class="img-rounded"/></button>
 			
                 </div>
@@ -160,14 +160,37 @@
                             <img src="img/programy/mini-mini.gif" class="img-rounded"/></button>
                         <button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:1E:578:13E:82ACCE:0:0:0:'" class="btn">
                             <img src="img/programy/NickJunior.png" class="img-rounded"/></button>
-                        <button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:290C:1EDC:71:820000:0:0:0::Jim Jam Polska'" class="btn">
-                            <img src="img/programy/jija.gif" class="img-rounded"/></button>
-			<button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:12C6:2E7C:13E:820000:0:0:0:'" class="btn">
+                        <button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:1CB6:1CE8:71:820000:0:0:0:'" class="btn">
+                            <img src="img/programy/disney.jpg" class="img-rounded"/></button>
+			<button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:379B:44C:13E:820000:0:0:0:'" class="btn">
                             <img src="img/programy/tele-to-on+.jpg" class="img-rounded"/></button>
                 </div>
                 <br /><br />
                 <div class="btn-group">
-                         
+                       <button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:3ABD:514:13E:820000:0:0:0:'" class="btn">
+                            <img src="img/programy/tvp1.jpg" class="img-rounded"/></button>
+                        <button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:C22:1E78:71:820000:0:0:0:'" class="btn">
+                            <img src="img/programy/tvp2.jpg" class="img-rounded"/></button>
+                        <button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:3DCE:640:13E:820000:0:0:0:'" class="btn">
+                            <img src="img/programy/tvnstyle.jpg" class="img-rounded"/></button>
+            <button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:379E:44C:13E:820000:0:0:0:'" class="btn">
+                            <img src="img/programy/domo+.jpg" class="img-rounded"/></button>     
+                </div>
+                <br /><br />
+                <div class="btn-group">
+                        <button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:3AB8:514:13E:820000:0:0:0:'" class="btn">
+                            <img src="img/programy/discovery.jpg" class="img-rounded"/></button>
+                        <button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:32DF:190:13E:820000:0:0:0:'" class="btn">
+                            <img src="img/programy/ngc_logo_cmyk_grey.gif" class="img-rounded"/></button>
+                        <button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:3B66:12C:13E:820000:0:0:0:'" class="btn">
+                            <img src="img/programy/animalplanet.jpg" class="img-rounded"/></button>
+                        <button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:10DB:3E8:13E:820000:0:0:0:'" class="btn">
+                            <img src="img/programy/eskatv2.png" class="img-rounded"/></button></div>
+                
+                 <br /><br />
+                <div class="btn-group">
+                        <button onClick="parent.channel.location='http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/zap?sRef=1:0:1:13F1:5DC:13E:820000:0:0:0:'" class="btn">
+                            <img src="img/programy/TraceUrban.jpg" class="img-rounded"/></button>
                 </div>
             </div>
 
