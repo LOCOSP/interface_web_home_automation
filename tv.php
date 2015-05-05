@@ -24,8 +24,8 @@
         <div class="btn-group">
             <button onClick="parent.location='polecenia/tv/PC.php'" class="btn-large btn">PC</button>
             <button onClick="parent.location='polecenia/tv/TV.php'"  class="btn-large btn">TV</button>
-            <button onClick="parent.location='polecenia/tv/CAST.php'"  class="btn-large btn">CAST</button>
-            <button onClick="parent.location='polecenia/tv/PS3.php'" class="btn-large btn">PS3</button>
+           <button onClick="parent.location='polecenia/tv/Cast.php'" class="btn-large btn">CAST</button>
+	    <button onClick="parent.location='polecenia/tv/PS3.php'" class="btn-large btn">PS3</button>
             <button onClick="parent.location='polecenia/tv/DVD.php'" class="btn-large btn">DVD</button>
         </div>
     </div>

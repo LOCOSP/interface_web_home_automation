@@ -11,7 +11,7 @@
     <link rel="apple-touch-icon" href="img/smart-home.png"/>
     <link rel="shortcut icon" href="img/favicon.ico" />
     <link href="css/style.css" rel="stylesheet">
-    <link href="../framework/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="../framework/bootstrap/2.0/css/bootstrap.css" rel="stylesheet">
     <style type="text/css">
       body {
         padding-top: 60px;
@@ -21,7 +21,7 @@
         padding: 9px 0;
       }
     </style>
-    <link href="../framework/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="../framework/bootstrap/2.0/css/bootstrap-responsive.css" rel="stylesheet">
 
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
