@@ -13,6 +13,6 @@
             "cd": "irsend send_once amplituner source-cd",
             "tv": "irsend send_once amplituner source-tv",
             "vcr": "irsend send_once amplituner source-vcr"
-        },
+        }
     }
 }
