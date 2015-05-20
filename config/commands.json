@@ -1,5 +1,5 @@
 {
-    "amplifier": {
+    "amplituner": {
         "power": {
             "on": "irsend send_once amplituner power-on",
             "off": "irsend send_once amplituner power-off"
