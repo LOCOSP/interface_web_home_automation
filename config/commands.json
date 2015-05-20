@@ -1,0 +1,18 @@
+{
+    "amplifier": {
+        "power": {
+            "on": "irsend send_once amplituner power-on",
+            "off": "irsend send_once amplituner power-off"
+        },
+        "volume": {
+            "up": "irsend send_once amplituner volume-up",
+            "down": "irsend send_once amplituner volume-down",
+            "mute": "irsend send_once amplituner volume-mute"
+        },
+        "source": {
+            "cd": "irsend send_once amplituner source-cd",
+            "tv": "irsend send_once amplituner source-tv",
+            "vcr": "irsend send_once amplituner source-vcr"
+        },
+    }
+}
