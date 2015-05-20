@@ -1,5 +1,5 @@
 {
-    "amplifier": {
+    "amplituner": {
         "power": {
             "on": "irsend send_once amplituner power-on",
             "off": "irsend send_once amplituner power-off"
@@ -13,6 +13,18 @@
             "cd": "irsend send_once amplituner source-cd",
             "tv": "irsend send_once amplituner source-tv",
             "vcr": "irsend send_once amplituner source-vcr"
-        },
+        }
+    },
+    "dreambox": {
+        "power": {
+            "on": "http://192.168.1.128/web/powerstate?newstate=4",
+            "off": "http://192.168.1.128/web/powerstate?newstate=0"
+        }
+    },
+    "dreambox": {
+        "power": {
+            "on": "http://192.168.1.128/web/powerstate?newstate=4",
+            "off": "http://192.168.1.128/web/powerstate?newstate=0"
+        }
     }
 }
