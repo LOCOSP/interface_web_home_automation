@@ -14,5 +14,11 @@
             "tv": "irsend send_once amplituner source-tv",
             "vcr": "irsend send_once amplituner source-vcr"
         }
+    },
+    "dreambox": {
+        "power": {
+            "on": "http://192.168.1.128/web/powerstate?newstate=4",
+            "off": "http://192.168.1.128/web/powerstate?newstate=0"
+        }
     }
 }
