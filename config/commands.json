@@ -18,8 +18,8 @@
         },
         "dreambox": {
             "power": {
-                "on": "http://192.168.1.128/web/powerstate?newstate=4",
-                "off": "http://192.168.1.128/web/powerstate?newstate=0"
+                "on": "wget -O /dev/null http://192.168.1.128/web/powerstate?newstate=4",
+                "off": "wget -O /dev/null http://192.168.1.128/web/powerstate?newstate=0"
             }
         },
         "light-gallery": {
