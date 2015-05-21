@@ -61,7 +61,7 @@
             }
         }
     },
-        "bedroom": {
+    "bedroom": {
         "light-bed": {
             "power": {
                 "on": "/usr/local/bin/tdtool -n 3",
