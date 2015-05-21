@@ -1,71 +1,71 @@
 {
-    "salon": {
-        "amplituner": {
+    "bedroom": {
+        "light-bed": {
             "power": {
-                "on": "irsend send_once amplituner power-on",
-                "off": "irsend send_once amplituner power-off"
-            },
-            "volume": {
-                "up": "irsend send_once amplituner volume-up",
-                "down": "irsend send_once amplituner volume-down",
-                "mute": "irsend send_once amplituner volume-mute"
-            },
-            "source": {
-                "cd": "irsend send_once amplituner source-cd",
-                "tv": "irsend send_once amplituner source-tv",
-                "vcr": "irsend send_once amplituner source-vcr"
-            }
-        },
-        "dreambox": {
-            "power": {
-                "on": "http://192.168.1.128/web/powerstate?newstate=4",
-                "off": "http://192.168.1.128/web/powerstate?newstate=0"
-            }
-        },
-        "light-gallery": {
-            "power": {
-                "on": "/usr/local/bin/tdtool -n 2",
-                "off": "/usr/local/bin/tdtool -f 2"
-            }
-        },
-        "light-table-big": {
-            "power": {
-                "on": "curl -s -LN --globoff 'http://localhost:8083/ZWaveAPI/Run/devices[3].instances[2].SwitchBinary.Set(255)'",
-                "off": "curl -s -LN --globoff 'http://localhost:8083/ZWaveAPI/Run/devices[3].instances[2].SwitchBinary.Set(0)'"
-            }
-        },
-        "light-table-small": {
-            "power": {
-                "on": "curl -s -LN --globoff 'http://localhost:8083/ZWaveAPI/Run/devices[3].instances[1].SwitchBinary.Set(255)'",
-                "off": "curl -s -LN --globoff 'http://localhost:8083/ZWaveAPI/Run/devices[3].instances[1].SwitchBinary.Set(0)'"
-            }
-        },
-        "light-window": {
-            "power": {
-                "on": "/usr/local/bin/tdtool -n 1",
-                "off": "/usr/local/bin/tdtool -f 1"
-            }
-        },
-        "light-corner": {
-            "power": {
-                "on": "/usr/local/bin/tdtool -n 1",
-                "off": "/usr/local/bin/tdtool -f 1"
+                "on": "tdtool -n 3",
+                "off": "tdtool -f 3"
             }
         }
     },
     "kid": {
         "light-corner": {
             "power": {
-                "on": "/usr/local/bin/tdtool -n 4",
-                "off": "/usr/local/bin/tdtool -f 4"
+                "on": "tdtool -n 4",
+                "off": "tdtool -f 4"
             }
         }
     },
-        "bedroom": {
-        "light-bed": {
+    "salon": {
+        "amplituner": {
             "power": {
-                "on": "/usr/local/bin/tdtool -n 3",
-                "off": "/usr/local/bin/tdtool -f 3"
+                "off": "irsend send_once amplituner power-off",
+                "on": "irsend send_once amplituner power-on"
+            },
+            "source": {
+                "cd": "irsend send_once amplituner source-cd",
+                "tv": "irsend send_once amplituner source-tv",
+                "vcr": "irsend send_once amplituner source-vcr"
+            },
+            "volume": {
+                "down": "irsend send_once amplituner volume-down",
+                "mute": "irsend send_once amplituner volume-mute",
+                "up": "irsend send_once amplituner volume-up"
+            }
+        },
+        "dreambox": {
+            "power": {
+                "off": "wget -O /dev/null http://192.168.1.128/web/powerstate?newstate=0",
+                "on": "wget -O /dev/null http://192.168.1.128/web/powerstate?newstate=4"
+            }
+        },
+        "light-corner": {
+            "power": {
+                "off": "tdtool -f 1",
+                "on": "tdtool -n 1"
+            }
+        },
+        "light-gallery": {
+            "power": {
+                "off": "tdtool -f 2",
+                "on": "tdtool -n 2"
+            }
+        },
+        "light-table-big": {
+            "power": {
+                "off": "curl -s -LN --globoff 'http://localhost:8083/ZWaveAPI/Run/devices[3].instances[2].SwitchBinary.Set(0)'",
+                "on": "curl -s -LN --globoff 'http://localhost:8083/ZWaveAPI/Run/devices[3].instances[2].SwitchBinary.Set(255)'"
+            }
+        },
+        "light-table-small": {
+            "power": {
+                "off": "curl -s -LN --globoff 'http://localhost:8083/ZWaveAPI/Run/devices[3].instances[1].SwitchBinary.Set(0)'",
+                "on": "curl -s -LN --globoff 'http://localhost:8083/ZWaveAPI/Run/devices[3].instances[1].SwitchBinary.Set(255)'"
+            }
+        },
+        "light-window": {
+            "power": {
+                "off": "tdtool -f 1",
+                "on": "tdtool -n 1"
             }
         }
     }
