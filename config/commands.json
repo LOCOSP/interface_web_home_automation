@@ -52,5 +52,21 @@
                 "off": "/usr/local/bin/tdtool -f 1"
             }
         }
+    },
+    "kid": {
+        "light-corner": {
+            "power": {
+                "on": "/usr/local/bin/tdtool -n 4",
+                "off": "/usr/local/bin/tdtool -f 4"
+            }
+        }
+    },
+        "bedroom": {
+        "light-bed": {
+            "power": {
+                "on": "/usr/local/bin/tdtool -n 3",
+                "off": "/usr/local/bin/tdtool -f 3"
+            }
+        }
     }
 }
