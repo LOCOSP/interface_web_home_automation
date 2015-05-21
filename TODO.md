@@ -1,0 +1,1 @@
++ przenieść wszystkie skrypty z `polecenia/` do `commands.json`, aby można było usunąć ten nieszczęsny katalog.
