@@ -1,4 +1,20 @@
 {
+    "bedroom": {
+        "light-bed": {
+            "power": {
+                "on": "tdtool -n 3",
+                "off": "tdtool -f 3"
+            }
+        }
+    },
+    "kid": {
+        "light-corner": {
+            "power": {
+                "on": "tdtool -n 4",
+                "off": "tdtool -f 4"
+            }
+        }
+    },
     "salon": {
         "amplituner": {
             "power": {
@@ -50,22 +66,6 @@
             "power": {
                 "on": "tdtool -n 1",
                 "off": "tdtool -f 1"
-            }
-        }
-    },
-    "kid": {
-        "light-corner": {
-            "power": {
-                "on": "tdtool -n 4",
-                "off": "tdtool -f 4"
-            }
-        }
-    },
-    "bedroom": {
-        "light-bed": {
-            "power": {
-                "on": "tdtool -n 3",
-                "off": "tdtool -f 3"
             }
         }
     }
