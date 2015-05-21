@@ -24,8 +24,8 @@
         },
         "light-gallery": {
             "power": {
-                "on": "/usr/local/bin/tdtool -n 2",
-                "off": "/usr/local/bin/tdtool -f 2"
+                "on": "tdtool -n 2",
+                "off": "tdtool -f 2"
             }
         },
         "light-table-big": {
@@ -42,30 +42,30 @@
         },
         "light-window": {
             "power": {
-                "on": "/usr/local/bin/tdtool -n 1",
-                "off": "/usr/local/bin/tdtool -f 1"
+                "on": "tdtool -n 1",
+                "off": "tdtool -f 1"
             }
         },
         "light-corner": {
             "power": {
-                "on": "/usr/local/bin/tdtool -n 1",
-                "off": "/usr/local/bin/tdtool -f 1"
+                "on": "tdtool -n 1",
+                "off": "tdtool -f 1"
             }
         }
     },
     "kid": {
         "light-corner": {
             "power": {
-                "on": "/usr/local/bin/tdtool -n 4",
-                "off": "/usr/local/bin/tdtool -f 4"
+                "on": "tdtool -n 4",
+                "off": "tdtool -f 4"
             }
         }
     },
     "bedroom": {
         "light-bed": {
             "power": {
-                "on": "/usr/local/bin/tdtool -n 3",
-                "off": "/usr/local/bin/tdtool -f 3"
+                "on": "tdtool -n 3",
+                "off": "tdtool -f 3"
             }
         }
     }
