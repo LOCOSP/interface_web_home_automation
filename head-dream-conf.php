@@ -53,5 +53,3 @@ foreach( $teraz_opisy as $teraz_opis ) {
     $opis  = $teraz_opis->getElementsByTagName("e2eventdescriptionextended")->item(0)->nodeValue;
     break;
 }
-
-?>
