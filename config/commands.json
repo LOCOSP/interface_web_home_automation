@@ -38,6 +38,22 @@
                 "on": "wget -O /dev/null http://192.168.1.128/web/powerstate?newstate=4"
             }
         },
+        "internet-radio": {
+            "power": {
+                "off": "mpc stop",
+                "on": "mpc play 11"
+            },
+            "station-genre": {
+                "chillout": "mpc play 9",
+                "dancehall": "mpc play 5",
+                "dnb": "mpc play 15",
+                "dubstep": "mpc play 14",
+                "electro": "mpc play 10",
+                "hiphop": "mpc play 1",
+                "jazz": "mpc play 2",
+                "reggae": "mpc play 6"
+            }
+        },
         "light-corner": {
             "power": {
                 "off": "tdtool -f 1",
@@ -66,6 +82,26 @@
             "power": {
                 "off": "tdtool -f 1",
                 "on": "tdtool -n 1"
+            }
+        },
+        "tv": {
+            "power": {
+                "off": "irsend SEND_ONCE PanasonicTV TVPOWEROFF",
+                "on": "irsend SEND_ONCE PanasonicTV TVPOWERON --count=10"
+            },
+            "source": {
+                "av1": "irsend send_once PanasonicTV TVAV1",
+                "av2": "irsend send_once PanasonicTV TVAV2",
+                "av3": "irsend send_once PanasonicTV TVAV3",
+                "hdmi1": "irsend send_once PanasonicTV TVHDMI1",
+                "hdmi2": "irsend send_once PanasonicTV TVHDMI2",
+                "hdmi3": "irsend send_once PanasonicTV TVHDMI3",
+                "pc": "irsend send_once PanasonicTV TVPC"
+            },
+            "volume": {
+                "down": "irsend send_once PanasonicTV TVVOLDWN",
+                "mute": "irsend send_once PanasonicTV TVMUTE",
+                "up": "irsend send_once PanasonicTV TVVOLUP"
             }
         }
     }
