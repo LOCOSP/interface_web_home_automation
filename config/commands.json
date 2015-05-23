@@ -80,14 +80,14 @@
         },
         "light-table-big": {
             "power": {
-                "off": "curl -s -LN --globoff 'http://localhost:8083/ZWaveAPI/Run/devices[3].instances[2].SwitchBinary.Set(0)'",
-                "on": "curl -s -LN --globoff 'http://localhost:8083/ZWaveAPI/Run/devices[3].instances[2].SwitchBinary.Set(255)'"
+                "off": "wget -O /dev/null http://localhost:8083/ZWaveAPI/Run/devices[3].instances[2].SwitchBinary.Set(0)",
+                "on": "wget -O /dev/null http://localhost:8083/ZWaveAPI/Run/devices[3].instances[2].SwitchBinary.Set(255)"
             }
         },
         "light-table-small": {
             "power": {
-                "off": "curl -s -LN --globoff 'http://localhost:8083/ZWaveAPI/Run/devices[3].instances[1].SwitchBinary.Set(0)'",
-                "on": "curl -s -LN --globoff 'http://localhost:8083/ZWaveAPI/Run/devices[3].instances[1].SwitchBinary.Set(255)'"
+                "off": "wget -O /dev/null http://localhost:8083/ZWaveAPI/Run/devices[3].instances[1].SwitchBinary.Set(0)",
+                "on": "wget -O /dev/null http://localhost:8083/ZWaveAPI/Run/devices[3].instances[1].SwitchBinary.Set(255)"
             }
         },
         "light-window": {
