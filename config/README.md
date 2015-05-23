@@ -1,0 +1,1 @@
+plik lircd.conf pochodzi z /etc/lirc/
