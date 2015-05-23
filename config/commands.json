@@ -38,6 +38,18 @@
                 "on": "wget -O /dev/null http://192.168.1.128/web/powerstate?newstate=4"
             }
         },
+        "extention-cord-1": {
+            "power": {
+                "off": "wget -O /dev/null http://localhost:8083/ZWaveAPI/Run/devices[4].instances[2].SwitchBinary.Set(0)",
+                "on": "wget -O /dev/null http://localhost:8083/ZWaveAPI/Run/devices[4].instances[2].SwitchBinary.Set(255)"
+            }
+        },
+        "extension-cord-2": {
+            "power": {
+                "off": "wget -O /dev/null http://localhost:8083/ZWaveAPI/Run/devices[4].instances[1].SwitchBinary.Set(0)",
+                "on": "wget -O /dev/null http://localhost:8083/ZWaveAPI/Run/devices[4].instances[1].SwitchBinary.Set(255)"
+            }
+        },
         "internet-radio": {
             "power": {
                 "off": "mpc stop",
