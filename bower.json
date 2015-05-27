@@ -1,0 +1,34 @@
+{
+  "name": "interface_web_home_automation",
+  "version": "0.0.1",
+  "homepage": "https://github.com/LOCOSP/interface_web_home_automation",
+  "authors": [
+    "Borys Milewski <lokacyjny@gmail.com>",
+    "Thomas Szteliga <ts@websafe.pl>"
+  ],
+  "description": "Proof of concept - home automation web interface",
+  "main": "index.php",
+  "keywords": [
+    "home",
+    "automation",
+    "raspberry",
+    "z-wave",
+    "tellstick",
+    "telldus",
+    "fibaro"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.*",
+    "bootstrap": "~2.*",
+    "ionicons": "~2.0.1",
+    "foundation-icon-fonts": "*"
+  }
+}
