@@ -1,8 +1,8 @@
-<?php require_once 'header.php'; ?>
-<body >
-<?php require_once 'navbar.php'; ?>
+<?php require 'includes/header.php'; ?>
+<body>
+<?php require 'includes/navbar.php'; ?>
 
-<?php require_once 'head-dream-conf.php'; ?>
+<?php require 'includes/head-dream-conf.php'; ?>
 
         <div class="container">
             <div class="left">
@@ -194,7 +194,7 @@
                 </div>
             </div>
 
-<?php include_once 'javascript.php'; ?>
+<?php require 'includes/footer.php'; ?>
 
 </body>
 </html>

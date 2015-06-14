@@ -1,6 +1,6 @@
-<?php include_once 'header.php'; ?>
+<?php require 'includes/header.php'; ?>
 <body >
-<?php include_once 'navbar.php'; ?>
+<?php require 'includes/navbar.php'; ?>
 <div class="container">
    <h2>AMPLITUNER</h2>
       <div class="left">
@@ -81,6 +81,6 @@
     </p>
     <br />
 </div>
-<?php include_once 'javascript.php'; ?>
+<?php require 'includes/footer.php'; ?> 
 </body>
 </html>

@@ -1,6 +1,6 @@
-<?php include_once 'header.php'; ?>
+<?php require 'includes/header.php'; ?>
 <body >
-<?php include_once 'navbar.php'; ?>
+<?php require 'includes/navbar.php'; ?>
 <div class="container">
    <h2>ŚWIATŁA</h2>
    <p><b>SALON - GALERIA</b></p>
@@ -70,6 +70,6 @@
         </p>
     </div>
 </div>
-<?php include_once 'javascript.php'; ?>
+<?php require 'includes/footer.php'; ?>
 </body>
 </html>

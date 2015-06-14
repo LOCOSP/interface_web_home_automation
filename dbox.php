@@ -1,9 +1,9 @@
-<?php include_once 'header.php'; ?>
+<?php require 'includes/header.php'; ?>
 
-<?php include_once 'head-dream-conf.php'; ?>
+<?php require 'includes/head-dream-conf.php'; ?>
 
 <body >
-<?php include_once 'navbar.php'; ?>
+<?php require 'includes/navbar.php'; ?>
 <div class="container">
    <h2>DREAMBOX</h2>
     <div class="left">
@@ -54,6 +54,6 @@
     </div>
           <iframe id="channel" name="channel" src="http://<?php echo $cfg['dreambox']['ip'];?>:<?php echo $cfg['dreambox']['port'];?>/web/powerstate" ></iframe>
 </div>
-<?php include_once 'javascript.php'; ?>
+<?php require 'includes/footer.php'; ?>
 </body>
 </html>
