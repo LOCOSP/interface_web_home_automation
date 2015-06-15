@@ -2,7 +2,7 @@
 
 /* Dreambox Web Interface settings IP & Port */
 
-return array(
+$cfg = array(
     'dreambox' => array(
         'ip' => '192.168.1.128',
         'port' => 80,
