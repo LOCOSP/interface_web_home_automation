@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<?php $cfg = require '../config/config.php'; ?>
+<?php $cfg = require 'config/config.php'; ?>
 <html lang="en">
   <head>
     <meta charset="utf-8">
