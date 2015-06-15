@@ -21,7 +21,7 @@
         padding: 9px 0;
       }
     </style>
-    <link href="../../framework/bootstrap/2.0/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="../framework/bootstrap/2.0/css/bootstrap-responsive.css" rel="stylesheet">
 
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
