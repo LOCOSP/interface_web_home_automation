@@ -1,209 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <e2servicelist>
 
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe2c.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>TERAZ POLSKA</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe2c.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>TERAZ POLSKA</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe33.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>POLSKIE HD</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe33.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>POLSKIE HD</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe08.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>POLSKIE SD</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe08.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>POLSKIE SD</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe01.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>CYFROWY POLSAT</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe01.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>CYFROWY POLSAT</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe11.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>TVP ASTRA</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe11.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>TVP ASTRA</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe13.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>SPORT</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe13.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>SPORT</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe02.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>BAJKI</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe02.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>BAJKI</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe06.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>MUZYKA</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe06.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>MUZYKA</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe2a.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>NEWS</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe2a.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>NEWS</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe0f.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>GERMANY</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe0f.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>GERMANY</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe04.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>SKY GERMANY</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe04.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>SKY GERMANY</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe31.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>HD+</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe31.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>HD+</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe0d.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>ORF</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe0d.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>ORF</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe1d.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>AUSTRIA SAT</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe1d.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>AUSTRIA SAT</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe0a.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>C+ NL</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe0a.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>C+ NL</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe0c.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>CSAT</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe0c.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>CSAT</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe05.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>D+</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe05.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>D+</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe0e.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>SRG</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe0e.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>SRG</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe2d.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>JSC</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe2d.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>JSC</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe1f.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>HRT</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe1f.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>HRT</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe1e.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>RTV SLOWENJIA</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe1e.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>RTV SLOWENJIA</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe07.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>ROSJA</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe07.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>ROSJA</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe1b.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>RAI</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe1b.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>RAI</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe09.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>SKY ITALIA</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe09.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>SKY ITALIA</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe12.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>XXL</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe12.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>XXL</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe1c.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>ORANGE - HOTBIRD</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe1c.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>ORANGE - HOTBIRD</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe20.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>HOTBIRD - FTA</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe20.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>HOTBIRD - FTA</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe28.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>FEEDS 13,0</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe28.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>FEEDS 13,0</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe32.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>ASTRA - FTA</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe32.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>ASTRA - FTA</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe22.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>ORANGE - ASTRA</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe22.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>ORANGE - ASTRA</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe16.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>C+ DIGITAL 23,5</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe16.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>C+ DIGITAL 23,5</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe23.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>TV VLAANDEREN</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe23.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>TV VLAANDEREN</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe27.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>SKY LINK 23,5</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe27.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>SKY LINK 23,5</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe0b.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>CS LINK 23,5</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe0b.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>CS LINK 23,5</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe18.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>SATELLITE BG</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe18.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>SATELLITE BG</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe03.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>FTA 23,5</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe03.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>FTA 23,5</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe14.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>FEEDS 23,5</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe14.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>FEEDS 23,5</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe1a.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>SKY UK 28,2</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe1a.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>SKY UK 28,2</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe21.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>3D</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe21.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>3D</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe2b.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>TEST</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe2b.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>TEST</e2servicename>
+    </e2service>
 	
-	<e2service>
-		<e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites.tv" ORDER BY bouquet</e2servicereference>
-		<e2servicename>Favourites (TV)</e2servicename>
-	</e2service>
+    <e2service>
+        <e2servicereference>1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites.tv" ORDER BY bouquet</e2servicereference>
+        <e2servicename>Favourites (TV)</e2servicename>
+    </e2service>
 	
 </e2servicelist>
