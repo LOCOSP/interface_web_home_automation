@@ -30,7 +30,7 @@
                         <button onClick="parent.location='polecenia/hlights/GalleryLightOff.php'" class="btn" type="button">OFF</button>
                     </div>
                 </div>
-                <p style="font-size: 10px;">SALON - NAROŻNIK</p>
+                <p style="font-size: 10px;">SALON - LAMPKI BOCZNE</p>
                 <div class="btn-toolbar">
                     <div class="btn-group">
                         <button onClick="parent.location='polecenia/hlights/CornnerLightOn.php'" class="btn" type="button">ON</button>
@@ -65,11 +65,11 @@
                         <button onClick="parent.location='polecenia/hlights/KidsRoomLightOff.php'" class="btn" type="button">OFF</button>
                     </div>
 		</div>
-		<p style="font-size: 10px;">SALON - OKNO</p>
+		<p style="font-size: 10px;">KUCHNIA - GŁÓWNE</p>
                 <div class="btn-toolbar">
                     <div class="btn-group">
-                        <button onClick="parent.location='polecenia/hlights/WindowLightOn.php'" class="btn" type="button">ON</button>
-                        <button onClick="parent.location='polecenia/hlights/WindowLightOff.php'" class="btn" type="button">OFF</button>
+                        <button onClick="parent.location='polecenia/hlights/KitchenLightOn.php'" class="btn" type="button">ON</button>
+                        <button onClick="parent.location='polecenia/hlights/KitchenLightOff.php'" class="btn" type="button">OFF</button>
                     </div>
 		</div>
             <!--^^ koniec świateł ^^-->

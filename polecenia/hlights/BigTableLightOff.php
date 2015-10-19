@@ -1,4 +1,4 @@
 <?php
-shell_exec('curl -s -LN --globoff "http://localhost:8083/ZWaveAPI/Run/devices[3].instances[2].SwitchBinary.Set(0)"');
+shell_exec('curl localhost:8083/ZAutomation/api/v1/devices/ZWayVDev_zway_3-2-37/command/off -b /var/www/html/interface/data/cookie.txt');
 header( 'Location: ../../index.php' ) ;
 ?>

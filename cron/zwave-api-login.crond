@@ -1,0 +1,2 @@
+
+0 */1 * * *     root	/var/www/html/interface/cron/zwave-api-login.sh

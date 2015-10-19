@@ -1,0 +1,5 @@
+ZWAVE_API_HOST=localhost
+ZWAVE_API_PORT=8083
+ZWAVE_API_LOGIN=admin
+ZWAVE_API_PASSWORD=admin
+DATA_DIR=/var/www/html/interface/data

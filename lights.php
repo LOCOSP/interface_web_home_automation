@@ -14,7 +14,7 @@
             <button onClick="parent.location='polecenia/lights/GalleryLightOff.php'" class="btn btn-large btn-block" type="button">OFF</button>
         </p>
     </div>
-    <p><b>SALON - NAROŻNIK</b></p>
+    <p><b>SALON - LAMPKI BOCZNE</b></p>
     <div class="left">
 	<p>
 	    <button onClick="parent.location='polecenia/lights/CornnerLightOn.php'" class="btn btn-large btn-block" type="button">ON</button>
@@ -67,6 +67,17 @@
     <div class="right">
         <p>
             <button onClick="parent.location='polecenia/lights/KidsRoomLightOff.php'" class="btn btn-large btn-block" type="button">OFF</button>
+        </p>
+    </div>
+        <p><b>KUCHNIA - GŁÓWNE</b></p>
+    <div class="left">
+        <p>
+            <button onClick="parent.location='polecenia/lights/KitchenLightOn.php'" class="btn btn-large btn-block" type="button">ON</button>
+        </p>
+    </div>
+    <div class="right">
+        <p>
+            <button onClick="parent.location='polecenia/lights/KitchenLightOff.php'" class="btn btn-large btn-block" type="button">OFF</button>
         </p>
     </div>
 </div>
