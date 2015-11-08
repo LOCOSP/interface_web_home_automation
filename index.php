@@ -72,10 +72,9 @@
                         <button onClick="parent.location='polecenia/hlights/KitchenLightOff.php'" class="btn" type="button">OFF</button>
                     </div>
 		</div>
+	</div>
             <!--^^ koniec świateł ^^-->
             
-        
-            </div>
             <div class="right">
                 <p>
                     <button onClick="parent.location='polecenia/sceny/TvSetOFF.php'" class="btn btn-large btn-block" type="button">TV SET OFF</button>
@@ -136,9 +135,10 @@
                     </div>                
                 </div>
                  <!--^^tv ampli dream^^-->
-                  <iframe id="channel" name="channel" src="http://locosp.dyndns.org:80/web/powerstate" ></iframe>
+                  <iframe id="channel" name="channel" src="http://192.168.1.128/web/powerstate" ></iframe>
             </div>
             
+        </div>
         </div>
         
             <div class="btn-toolbar center-text">
