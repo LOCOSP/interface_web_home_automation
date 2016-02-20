@@ -47,7 +47,7 @@ function leseVerzeichnis($ordner)
   return $folderNames;
 }
 
-$folders = leseVerzeichnis("./");
+$folders = leseVerzeichnis("/mnt/muzyka");
 $xml = new SimpleXMLElement('<xml/>');
 foreach($folders as $objekt)
 {
