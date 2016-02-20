@@ -7,7 +7,7 @@
     <?php
         $objDOM = new DOMDocument();
             //pobieramy kanal rss i tworzymy liste zawierajaca elementy ITEM
-        $objDOM->load("http://192.168.1.10:90/interface/muzyka/index.php"); 
+        $objDOM->load("http://192.168.1.10:90/interface/indeksuj-muzyke.php"); 
         //$objDOM->load("http://localhost:8888/test/index.php"); // Seba 09.04
         $service = $objDOM->getElementsByTagName("track");
 
