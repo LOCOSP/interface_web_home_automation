@@ -28,7 +28,7 @@
 
             echo '<ul>';
             echo '<li>';
-            echo '<a href="/interface/indexplay.php?file='. urlencode($path . '/' . $name).'">'. str_replace('/var/www/interface/muzyka/', '', $withoutExt) .'</a>';
+            echo '<a href="/interface/indexplay.php?file='. urlencode($path . '/' . $name).'">'. str_replace('/mnt/muzyka/', '', $withoutExt) .'</a>';
             echo '</li>';
             echo '</li>';
             echo '</ul>';
