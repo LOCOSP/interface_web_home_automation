@@ -8,12 +8,12 @@ error_reporting(E_ALL);
 
 $file = urldecode($_GET['file']);
 
-echo shell_exec('killall mplayer');
-echo shell_exec('killall mpc');
+echo shell_exec('sudo killall mplayer');
+echo shell_exec('sudo killall mpc');
 
 echo '<pre>';
 
-$cmd = "/usr/bin/mplayer \"$file\" > /dev/null 2>/dev/null &";
+$cmd = "sudo /usr/bin/mplayer \"$file\" > /dev/null 2>/dev/null &";
 
 echo htmlspecialchars($cmd);
 
