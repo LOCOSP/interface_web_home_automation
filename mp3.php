@@ -22,7 +22,7 @@
             if($temp_foldername["foldername"] != $folder)
                 {
                     $temp_foldername["foldername"] = $folder;
-                    echo '<h2 style="background-color:#E0E0E0;">Album: '. str_replace('.//', '', $temp_foldername["foldername"]) .'</h2></hr>';
+                    echo '<h2 style="background-color:#E0E0E0;">Album: '. str_replace('/mnt/muzyka/', '', $temp_foldername["foldername"]) .'</h2></hr>';
                 }
             // Seba 09.04 ---- Ende
 
