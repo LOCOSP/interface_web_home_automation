@@ -15,6 +15,8 @@
                       <li><a href="progs.php">PROGRAMY</a></li>
                       <li><a href="lights.php">ŚWIATŁA</a></li>
                       <li><a href="mp3.php">MUZYKA</a></li>
+                      <li><a href="http://192.168.119.6/interface/castvideo.php">VIDEO</a></li>
+		      <li><a href="cron/runapi.php">Z-WAVE API</a></li>
                     </ul>
                 </div><!--/.nav-collapse -->
             </div>
